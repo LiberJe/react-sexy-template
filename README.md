@@ -1,2 +1,2 @@
-# react-sexy-template
-react template
+# react-readux-antd template
+`npm install`
